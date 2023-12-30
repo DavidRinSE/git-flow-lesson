@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <header>
-        <h1>Bigfoot is alive</h1>
+        <h1>Bigfoot is a live</h1>
       </header>
     </div>
   );
